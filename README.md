@@ -1,25 +1,11 @@
-# 🐍 Dominando o Python - Dia 1
-
-    Este programa tem como principal objetivo facilitar a manipulação de datas, permitindo ao usuário consultar informações específicas, validar datas e verificar se o ano é bissexto. Todas as operações seguem o formato padrão dd/mm/aaaa.
-
-  > **Simplicidade** &nbsp;&nbsp;|&nbsp;&nbsp; **Boas Práticas** &nbsp;&nbsp;|&nbsp;&nbsp; **Efetividade**
 ---
-[![Gif animado](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)](https://www.bing.com/images/search?view=detailV2&ccid=Yfj26Dr%2F&id=1E3512E866AFFA3091EA06CF7D4D844ABD4F28B2)
----
-```python
-# Função Principal >>>>>>
+## <p style="color:blue; text-align:center;">**🙌 Viver, aprender e, acima de tudo, sofrer 🙌**</p>
 
-def bissextoSep(string):
-    partes = string.split("/")
-    if len(partes) != 3:
-        return {}
-    return {
-        "dia": partes[0],
-        "mes": partes[1],
-        "mês": partes[1],  
-        "ano": partes[2]
-    }
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1190.gif" width="900" alt="Ihh, deu foi erro @_@">
+</p>
 
-```
-----
-[Clique aqui para mais novidades!](https://github.com/Danilo167?)
+<button style="background-color:red; color:white; border:none; padding:10px 20px; border-radius:5px; cursor:pointer;"
+        onclick="alert('Fiquei com preguiça de fazer o resto! -_-')">
+  Clique aqui!
+</button>
