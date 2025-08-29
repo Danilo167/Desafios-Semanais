@@ -5,7 +5,7 @@
   <img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1190.gif" width="900" alt="Ihh, deu foi erro @_@">
 </p>
 
-<button style="background-color:red; color:white; border:none; padding:10px 20px; border-radius:5px; cursor:pointer;"
-        onclick="alert('Fiquei com preguiça de fazer o resto! -_-')">
-  Clique aqui!
-</button>
+<a href="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" 
+   style="background-color:red; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">
+   Clique aqui!
+</a>
