@@ -22,4 +22,19 @@ def bissextoSep(string):
 
 ```
 ----
+## 📚 Assuntos que aprendi neste código:
+
+- 🚀 Importação de módulos  
+- 🔁 Laços de repetição  
+- 🛠️ Funções  
+- ✂️ Manipulação de strings  
+- 📦 Dicionários  
+- 🔀 Estruturas condicionais  
+- ⚡ Operador ternário  
+- 🛡️ Tratamento de exceções  
+- 🔢 Conversão de tipos  
+- 📋 Listas  
+- 🧭 Controle de fluxo  
+- 💬 Interpolação de strings
+----
 [Clique aqui para mais novidades!](https://github.com/Danilo167?)
