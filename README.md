@@ -1,5 +1,5 @@
 ---
-## <p style="color:blue; text-align:center;">**🙌 Viver, aprender e, acima de tudo, sofrer 🙌**</p>
+## <p style="color:blue; text-align:center;">**🙌 Viver, aprender e, acima de tudo, ter fé 🙌**</p>
 
 <p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1190.gif" width="900" alt="Ihh, deu foi erro @_@">
