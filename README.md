@@ -7,5 +7,5 @@
 
 <a href="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" 
    style="background-color:red; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">
-   Clique aqui!
+   Olá!
 </a>
